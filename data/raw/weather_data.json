@@ -1,0 +1,20 @@
+[
+  {
+    "city": "Colombo",
+    "temp_C": 28.27,
+    "humidity": 89,
+    "wind_speed": 7.06
+  },
+  {
+    "city": "Kandy",
+    "temp_C": 22.06,
+    "humidity": 95,
+    "wind_speed": 1.66
+  },
+  {
+    "city": "Galle",
+    "temp_C": 26.7,
+    "humidity": 86,
+    "wind_speed": 5.87
+  }
+]
