@@ -1,0 +1,65 @@
+[
+  {
+    "city": "Colombo",
+    "temp_C": 27.4,
+    "humidity": 85,
+    "wind_speed": 3.85,
+    "timestamp": "2025-06-27 23:03:07.418990"
+  },
+  {
+    "city": "Kandy",
+    "temp_C": 22.04,
+    "humidity": 84,
+    "wind_speed": 1.43,
+    "timestamp": "2025-06-27 23:03:07.418990"
+  },
+  {
+    "city": "Galle",
+    "temp_C": 27.32,
+    "humidity": 86,
+    "wind_speed": 4.15,
+    "timestamp": "2025-06-27 23:03:07.418990"
+  },
+  {
+    "city": "Colombo",
+    "temp_C": 27.4,
+    "humidity": 85,
+    "wind_speed": 3.85,
+    "timestamp": "2025-06-27 23:03:52.535390"
+  },
+  {
+    "city": "Kandy",
+    "temp_C": 22.04,
+    "humidity": 84,
+    "wind_speed": 1.43,
+    "timestamp": "2025-06-27 23:03:52.535390"
+  },
+  {
+    "city": "Galle",
+    "temp_C": 27.32,
+    "humidity": 86,
+    "wind_speed": 4.15,
+    "timestamp": "2025-06-27 23:03:52.535390"
+  },
+  {
+    "city": "Colombo",
+    "temp_C": 27.4,
+    "humidity": 85,
+    "wind_speed": 3.85,
+    "timestamp": "2025-06-27 23:07:05.447324"
+  },
+  {
+    "city": "Kandy",
+    "temp_C": 22.04,
+    "humidity": 84,
+    "wind_speed": 1.43,
+    "timestamp": "2025-06-27 23:07:05.447324"
+  },
+  {
+    "city": "Galle",
+    "temp_C": 27.32,
+    "humidity": 86,
+    "wind_speed": 4.15,
+    "timestamp": "2025-06-27 23:07:05.447324"
+  }
+]

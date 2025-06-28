@@ -18,6 +18,6 @@ for city in cities:
 
 # Save
 df = pd.DataFrame(records)
-df.to_csv("weather_data.csv", index=False)
-with open("weather_data.json", "w") as f:
+df.to_csv("data/raw/weather_data.csv", index=False)
+with open("data/raw/weather_data.json", "w") as f:
     json.dump(records, f, indent=2)
